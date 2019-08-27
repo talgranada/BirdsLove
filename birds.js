@@ -3064,7 +3064,7 @@ p.nominalBounds = new cjs.Rectangle(325.7,175.3,388.7,184.09999999999997);
 		this.start = this.start.start;
 		var self = this; // משתנה המכיל בתוכו את כל הבמה והאלמנטים שבה 
 		//מוזיקה
-		createjs.Sound.registerSound("/sounds/birdsSounds.mp3","Birds");
+		createjs.Sound.registerSound("https://talgranada.github.io/BirdsLove/sounds/BirdsSounds.mp3","Birds");
 		createjs.Sound.registerSound("/sounds/music.mp3","music");
 		
 		
